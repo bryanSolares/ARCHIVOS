@@ -1,0 +1,59 @@
+Actualizamos la versión instalada por la descargada.
+
+sudo update-alternatives --install "/usr/bin/java" "java" "/directorio_de_ustedes/jdk1.8.0_101/bin/java" 1
+
+sudo update-alternatives --install "/usr/bin/javac" "javac" "/directorio_de_ustedes/jdk1.8.0_101/bin/javac" 1
+
+sudo update-alternatives --install "/usr/bin/javaws" "javaws" "/directorio_de_ustedes/jdk1.8.0_101/bin/javaws" 1
+
+sudo update-alternatives --config java
+
+
+//instalacion de JDK
+sudo apt-get install default-jre
+
+//instalacion de ADB y FASTBOOT
+sudo apt-get install android-tools-adb adb android-tools-fastboot fastboot
+
+
+//librerias necesarias para android studio
+sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386 lib32z1 libbz2-1.0:i386
+
+
+sudo dpkg -i /ruta.......deb
+
+sudo apt-get install python-setuptools
+sudo apt-get install python3-setuptools
+
+Crear acceso directos
+gnome-desktop-item-edit ~/Escritorio --create-new 
+
+
+--AGREGAR SSH-- GITHUB
+ssh-keygen
+eval $(ssh-agent -s)
+ssh-add ~/.ssh/id_rsa
+
+sudo apt install openssh-client
+
+
+----COMANDOS PARA RED----
+ifconfig
+ifconfig -a
+ifconfig {nombre-interfaz}
+ip addr
+hostname
+hostname -i
+nmcli
+nmcli device show
+ip route
+curl ipinfo.io/ip
+curl ifconfig.me
+curl bot.whatismyipaddress.com
+dig +short myip.opendns.com @resolver1.opendns.com
+curl checkip.dyndns.org
+curl ident.me
+host myip.opendns.com resolver1.opendns.com
+curl ipecho.net/plain
+
+

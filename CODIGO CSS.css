@@ -1,0 +1,21 @@
+background
+background-clip:  content-box
+
+box-sizing: content-box | padding-box | border-box
+
+
+width
+height
+padding
+border
+
+margin: top right bottom left | top-bottom  right-left | top right-left bottom | top-right-left-bottom
+margin-bottom
+margin-left
+margin-right
+margin-top
+
+float
+
+
+se puede usar usar margin negativos para no romper el layout al momento de subir un elemento
