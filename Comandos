@@ -1,0 +1,17 @@
+tar -zxvf nombrearchivo.tar.gz
+sudo dpkg -i package_file.deb
+
+
+
+[Desktop Entry]
+    Name=eclipse
+    Type=Application
+    Exec=eclipse
+    Terminal=false
+    Icon=eclipse
+    Comment=IDE Eclipse para desarrollo
+    NoDisplay=false
+    Categories=Development;IDE;
+
+$ sudo desktop-file-install archivo.desktop
+

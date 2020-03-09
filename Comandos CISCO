@@ -1,0 +1,195 @@
+*Visualiza en que está configurado el archivo de arranque ISO actual
+    show boot
+
+*Establecer la ruta para BOOT inicial
+boot system flash:/c2960-lanbasek9-mz.150-2.SE/c2960-lanbasek9-mz.150-2.SE.bin
+
+boot system: comando principal
+flash: el dispositivo de almacenamiento
+/c2960-lanbasek9-mz.150-2.SE/: ruta al sistema de archivos
+c2960-lanbasek9-mz.150-2.SE.bin: nombre del archivo IOS
+
+*Ver ruta de variable de entorno BOOT - Inicialización de sistema de archivo flash.
+switch: set
+switch: flash_init
+
+*Ver archivos en memoria flash
+switch: dir flash: 
+
+*Cambiar ruta de variable de entorno - Cargar sistema de archivos
+switch: BOOT=flash:c2960-lanbasek9-mz.150-2.SE8.bin
+switch: set
+switch: boot
+
+*Plantilla para poder usar IPV6
+sdm preferir dual-ipv4-and-ipv6 default
+
+*Configurar interfaz para administración
+S1# configure terminal
+S1(config)# interface vlan 99
+S1(config-if)# ip address 172.17.99.11 255.255.255.0
+S1(config-if)# ipv6 address 2001:db8:acad:99::1/64
+S1(config-if)# no shutdown
+S1(config-if)# end
+S1# copy running-config startup-config
+
+*Configuración para administración fuera de red local
+S1# configure terminal
+S1(config)# ip default-gateway 172.17.99.1
+S1(config-if)# end
+S1# copy running-config startup-config
+
+*Verificación de configuración
+S1# show ip interface brief
+S1# show ipv6 interface brief
+
+*CONFIGURACION MODO FULL-DUPLEX (100Mbps)
+S1# configure terminal
+S1(config)# interface FastEthernet 0/1
+S1(config-if)# duplex full
+S1(config-if)# speed 100
+S1(config-if)# end
+S1# copy running-config startup-config
+
+*CONFIGURACION PARA USO DE MDIX
+S1(config-if)# mdix auto
+
+*EXAMINAR CONFIGURACION DE MDIX
+S1# show controllers ethernet-controller fa0/1 phy | include MDIX
+
+*COMANDO DE VERIFICACION
+S1 # show interfaces [ interfaz-id ]
+S1 # show startup-config
+S1 # show running-config
+S1 # show flash
+S1 # show version
+S1# show history
+S1# show ip interface [interface-id]
+S1# show ipv6 interface [interface-id]
+S1# show mac-address-table
+S1# show mac address-table
+S1# show interfaces fastEthernet 0/18
+
+*CONFIGURACION DE SSH
+S1# show ip ssh
+S1(config)# ip domain-name cisco.com
+S1(config)# crypto key generate rsa
+How many bits in the modulus [512]: 1024
+S1(config)# username admin secret ccna
+S1(config)# line vty 0 15
+S1(config-line)# transport input ssh
+S1(config-line)# login local
+S1(config-line)# exit
+S1(config)# ip ssh version 2
+
+R1(config)# banner motd $ Authorized Access Only! $
+
+R1(config-if)# ipv6 address 2001:db8:acad:1::1/64 
+R1(config-if)# description Link to LAN 1
+
+
+*CONFIGURACION DE LOOPBACK
+R1(config)# interface loopback 0
+R1(config-if)# ip address 10.0.0.1 255.255.255.0
+R1(config-if)# exit
+
+
+show ip route
+show ipv6 route
+
+C= CONECTADO
+L= LOCAL
+
+show ip interface brief
+show ipv6 interface brief
+show ipv6 interface gigabitethernet 0/0/0
+show running-config interface gigabitethernet 0/0/0
+ping 2001:db8:acad:1::10
+
+R1# show running-config | section line vty
+R1# show ip interface brief | include up
+R1# show ip interface brief | exclude unassigned
+R1# show ip route | begin Gateway
+R1# terminal history size 200
+R1# show history
+
+Switch# show vlan brief 
+
+Switch#SHOW INterfaces TRUnk 
+Switch#SHOw INTerfaces G0/1 SWitchport 
+Switch(config-if)#SWItchport MOde Trunk 
+Switch(config-if)#SWitchport TRunk Native Vlan 1
+
+
+R1(config)#ROUTER OSPF 1
+R1(config-if)#NETWORK [IP] [MASCARA] AREA [#AREA]
+
+R1(config)#ROUTER RIP
+
+HQ(config-router)#version 2
+HQ(config-router)#no auto-summary 
+HQ(config-router)#DEFault-information ORIginate 
+HQ(config-router)#passive-interface g0/1
+HQ(config-router)#no passive-interface g0/1
+HQ(config-router)#passive-interface default 
+HQ(config-router)#NETwork 192.168.0.252
+HQ(config-router)#NETwork 10.1.1.0
+
+R1#debug ip rip
+R1#undebug all
+
+PROPAGAR RUTA PREDETERMINADA
+
+
+
+R1(config)#NO ROUTER RIP
+HQ#SHOW IP PROtocols 
+
+****PROTOCOLOS****
+RIPv2
+EIGRP
+OSPFv2
+BGP-4
+
+RIPng
+EIGRP PARA IPv6
+IS-IS PARA IPv6
+BGP-MP
+
+/*****170220***********/
+Switch# show vlan brief 
+S1# show interfaces fa0/18 switchport  
+
+/********19022020********/
+Switch # configure terminal
+Switch (config) # vlan  vlan-id
+Switch (config) # vlan  100,101,102,105-110
+Switch(config-vlan)# name vlan-name
+Switch (config-vlan) # end
+
+Switch# configure terminal
+Switch(config)# interface interface-id
+Switch(config-if)# switchport mode access
+Switch(config-if)#speed 100
+Switch(config-if)#duplex full
+Switch(config-if)# switchport access vlan vlan-id
+Switch(config-if)# end
+
+
+/**********20-21/02/2020*************/
+
+Switch(config-if-range)#SWItchport ACCess VLAN 20
+
+Switch(config)#no spanning-tree vlan 1
+Switch(config)#spanning-tree vlan 1
+Switch(config)#spanning-tree vlan 1 priority 4096
+Switch(config)#spanning-tree mode rapid-pvst 
+Switch(config)#spanning-tree vlan 10 root primary
+
+
+
+
+
+
+
+
