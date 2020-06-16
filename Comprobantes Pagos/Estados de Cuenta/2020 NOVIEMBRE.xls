@@ -1,0 +1,129 @@
+<center><br/><br/><table><tr><td colspan="5"><h3>ESTADO DE CUENTA </h1></td></tr></table><table><tr><td colspan="2">Banco Promerica, S.A.</td></tr></table><table><tr><td colspan="2" align="Right">Fecha del Reporte:</td><td colspan="4" align="left">jueves, 03 de diciembre de 2020 06:17 p.m.</td><td/><td/></tr><tr><td colspan="2" align="Right">Corte:</td><td align="left">11 - 2020</td><td/><td/></tr><tr><td colspan="2" align="Right">N&uacute;mero de Cuenta:</td><td colspan="2" align="left">12661010170069</td><td colspan="3" align="Right">Disponible:</td><td>3,402.17</td></tr><tr><td colspan="2" align="Right">Nombre del Cliente:</td><td colspan="2" align="left">BRYAN JOSUE SOLARES PEREZ</td><td colspan="3" align="Right">Moneda:</td><td>QUETZALES</td></tr><tr><td colspan="2" align="Right">Descripci&oacute;n del Producto:</td><td colspan="3" align="left">MONETARIO PLANILLAS Q</td><td colspan="2" align="Right">Balance Inicial:</td><td>2,262.32</td></tr><tr><td colspan="2" align="Right">Tipo de Cuenta:</td><td colspan="2" align="left">CATEGORIA Q</td></tr></table><table><tr><td colspan="2">Balance Inicial</td><td colspan="2">Saldo Promedio</td><td>Intereses</td><td>Cr&eacute;ditos</td><td>D&eacute;bitos</td><td colspan="2">Balance Actual</td><td>Disponible</td></tr><tr><td colspan="2">2,262.32</td><td colspan="2">1,517.01</td><td>0.00</td><td>6,244.17</td><td>5,104.32</td><td colspan="2">3,402.17</td><td>3,402.17</td></tr></table><table><tr><td>Transacciones</td></tr></table><table border="1">
+	<tr>
+		<td>Fecha</td>
+		<td>Documento</td>
+		<td>Descripci&#243;n</td>
+		<td>Monto</td>
+		<td>D&#233;bitos</td>
+		<td>Cr&#233;ditos</td>
+		<td>Saldo</td>
+	</tr>
+	<tr>
+		<td align="left">03/11/2020</td>
+		<td align="left">94009778</td>
+		<td align="left">OPERACIONES ACH</td>
+		<td align="Right">-1,350.00</td>
+		<td align="Right">1,350.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">912.32</td>
+	</tr>
+	<tr>
+		<td align="left">16/11/2020</td>
+		<td align="left">971163</td>
+		<td align="left">N.C PAGO PLANILLA</td>
+		<td align="Right">2,504.25</td>
+		<td align="Right">0.00</td>
+		<td align="Right">2,504.25</td>
+		<td align="Right">3,416.57</td>
+	</tr>
+	<tr>
+		<td align="left">17/11/2020</td>
+		<td align="left">424701</td>
+		<td align="left">RETIRO EN ATM</td>
+		<td align="Right">-1,000.00</td>
+		<td align="Right">1,000.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">2,416.57</td>
+	</tr>
+	<tr>
+		<td align="left">17/11/2020</td>
+		<td align="left">424769</td>
+		<td align="left">COMPRA POR POS - MI SUPER FRESH SAN CRISTOGUATEMALA    GT</td>
+		<td align="Right">-13.00</td>
+		<td align="Right">13.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">2,403.57</td>
+	</tr>
+	<tr>
+		<td align="left">18/11/2020</td>
+		<td align="left">95422612</td>
+		<td align="left">OPERACIONES ACH</td>
+		<td align="Right">-500.00</td>
+		<td align="Right">500.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">1,903.57</td>
+	</tr>
+	<tr>
+		<td align="left">21/11/2020</td>
+		<td align="left">466767</td>
+		<td align="left">COMPRA POR POS - MI SUPER FRESH SAN CRISTOGUATEMALA    GT</td>
+		<td align="Right">-89.45</td>
+		<td align="Right">89.45</td>
+		<td align="Right">0.00</td>
+		<td align="Right">1,814.12</td>
+	</tr>
+	<tr>
+		<td align="left">25/11/2020</td>
+		<td align="left">518733</td>
+		<td align="left">RETIRO EN ATM</td>
+		<td align="Right">-100.00</td>
+		<td align="Right">100.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">1,714.12</td>
+	</tr>
+	<tr>
+		<td align="left">25/11/2020</td>
+		<td align="left">520451</td>
+		<td align="left">COMPRA POR POS - UDEMY  ONLINE COURSES    SAN FRANCISCOUS</td>
+		<td align="Right">-199.34</td>
+		<td align="Right">199.34</td>
+		<td align="Right">0.00</td>
+		<td align="Right">1,514.78</td>
+	</tr>
+	<tr>
+		<td align="left">28/11/2020</td>
+		<td align="left">410357</td>
+		<td align="left">N.D. PAGO TELGUA BANCA LINEA</td>
+		<td align="Right">-224.00</td>
+		<td align="Right">224.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">1,290.78</td>
+	</tr>
+	<tr>
+		<td align="left">28/11/2020</td>
+		<td align="left">576844</td>
+		<td align="left">COMPRA POR POS - POLLO CAMPERO NO. 181    GUATEMALA    GT</td>
+		<td align="Right">-95.00</td>
+		<td align="Right">95.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">1,195.78</td>
+	</tr>
+	<tr>
+		<td align="left">30/11/2020</td>
+		<td align="left">96149983</td>
+		<td align="left">N.D PAGO EEGSA</td>
+		<td align="Right">-183.53</td>
+		<td align="Right">183.53</td>
+		<td align="Right">0.00</td>
+		<td align="Right">1,012.25</td>
+	</tr>
+	<tr>
+		<td align="left">30/11/2020</td>
+		<td align="left">983954</td>
+		<td align="left">N.C PAGO PLANILLA</td>
+		<td align="Right">3,739.92</td>
+		<td align="Right">0.00</td>
+		<td align="Right">3,739.92</td>
+		<td align="Right">4,752.17</td>
+	</tr>
+	<tr>
+		<td align="left">30/11/2020</td>
+		<td align="left">96706496</td>
+		<td align="left">OPERACIONES ACH</td>
+		<td align="Right">-1,350.00</td>
+		<td align="Right">1,350.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">3,402.17</td>
+	</tr>
+</table>
+</center><br/><center><TABLE><TR><TD colspan="2">Total de D&eacute;bitos</TD><TD>5,104.32</TD><TD></TD></TR><TR><TD colspan="2">Total de Cr&eacute;ditos</TD><TD>6,244.17</TD><TD></TD></TR></TABLE></center>

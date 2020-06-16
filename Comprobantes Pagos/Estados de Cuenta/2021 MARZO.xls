@@ -1,0 +1,219 @@
+<center><br/><br/><table><tr><td colspan="5"><h3>ESTADO DE CUENTA </h1></td></tr></table><table><tr><td colspan="2">Banco Promerica, S.A.</td></tr></table><table><tr><td colspan="2" align="Right">Fecha del Reporte:</td><td colspan="4" align="left">viernes, 09 de abril de 2021 08:18 p.m.</td><td/><td/></tr><tr><td colspan="2" align="Right">Corte:</td><td align="left">3 - 2021</td><td/><td/></tr><tr><td colspan="2" align="Right">N&uacute;mero de Cuenta:</td><td colspan="2" align="left">12661010170069</td><td colspan="3" align="Right">Disponible:</td><td>2,085.51</td></tr><tr><td colspan="2" align="Right">Nombre del Cliente:</td><td colspan="2" align="left">BRYAN JOSUE SOLARES PEREZ</td><td colspan="3" align="Right">Moneda:</td><td>QUETZALES</td></tr><tr><td colspan="2" align="Right">Descripci&oacute;n del Producto:</td><td colspan="3" align="left">MONETARIO PLANILLAS Q</td><td colspan="2" align="Right">Balance Inicial:</td><td>1,301.13</td></tr><tr><td colspan="2" align="Right">Tipo de Cuenta:</td><td colspan="2" align="left">CATEGORIA Q</td></tr></table><table><tr><td colspan="2">Balance Inicial</td><td colspan="2">Saldo Promedio</td><td>Intereses</td><td>Cr&eacute;ditos</td><td>D&eacute;bitos</td><td colspan="2">Balance Actual</td><td>Disponible</td></tr><tr><td colspan="2">1,301.13</td><td colspan="2">1,310.51</td><td>0.00</td><td>8,804.76</td><td>8,720.38</td><td colspan="2">1,385.51</td><td>2,085.51</td></tr></table><table><tr><td>Transacciones</td></tr></table><table border="1">
+	<tr>
+		<td>Fecha</td>
+		<td>Documento</td>
+		<td>Descripci&#243;n</td>
+		<td>Monto</td>
+		<td>D&#233;bitos</td>
+		<td>Cr&#233;ditos</td>
+		<td>Saldo</td>
+	</tr>
+	<tr>
+		<td align="left">01/03/2021</td>
+		<td align="left">1076511</td>
+		<td align="left">N.C PAGO PLANILLA</td>
+		<td align="Right">2,504.25</td>
+		<td align="Right">0.00</td>
+		<td align="Right">2,504.25</td>
+		<td align="Right">3,805.38</td>
+	</tr>
+	<tr>
+		<td align="left">01/03/2021</td>
+		<td align="left">9769861</td>
+		<td align="left">OPERACIONES ACH</td>
+		<td align="Right">-1,350.00</td>
+		<td align="Right">1,350.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">2,455.38</td>
+	</tr>
+	<tr>
+		<td align="left">04/03/2021</td>
+		<td align="left">10104711</td>
+		<td align="left">OPERACIONES ACH</td>
+		<td align="Right">-350.00</td>
+		<td align="Right">350.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">2,105.38</td>
+	</tr>
+	<tr>
+		<td align="left">04/03/2021</td>
+		<td align="left">10104712</td>
+		<td align="left">OPERACIONES ACH</td>
+		<td align="Right">-250.00</td>
+		<td align="Right">250.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">1,855.38</td>
+	</tr>
+	<tr>
+		<td align="left">04/03/2021</td>
+		<td align="left">10104713</td>
+		<td align="left">OPERACIONES ACH</td>
+		<td align="Right">-700.00</td>
+		<td align="Right">700.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">1,155.38</td>
+	</tr>
+	<tr>
+		<td align="left">05/03/2021</td>
+		<td align="left">867886</td>
+		<td align="left">RETIRO EN ATM</td>
+		<td align="Right">-500.00</td>
+		<td align="Right">500.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">655.38</td>
+	</tr>
+	<tr>
+		<td align="left">07/03/2021</td>
+		<td align="left">881778</td>
+		<td align="left">COMPRA POR POS - BIOTEST                  GUATEMALA    GT</td>
+		<td align="Right">-200.00</td>
+		<td align="Right">200.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">455.38</td>
+	</tr>
+	<tr>
+		<td align="left">08/03/2021</td>
+		<td align="left">897200</td>
+		<td align="left">RETIRO EN ATM</td>
+		<td align="Right">-300.00</td>
+		<td align="Right">300.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">155.38</td>
+	</tr>
+	<tr>
+		<td align="left">09/03/2021</td>
+		<td align="left">1227503</td>
+		<td align="left">TRANSFERENCIA </td>
+		<td align="Right">-155.00</td>
+		<td align="Right">155.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">0.38</td>
+	</tr>
+	<tr>
+		<td align="left">15/03/2021</td>
+		<td align="left">1093318</td>
+		<td align="left">N.C PAGO PLANILLA</td>
+		<td align="Right">2,504.25</td>
+		<td align="Right">0.00</td>
+		<td align="Right">2,504.25</td>
+		<td align="Right">2,504.63</td>
+	</tr>
+	<tr>
+		<td align="left">16/03/2021</td>
+		<td align="left">995710</td>
+		<td align="left">RETIRO EN ATM</td>
+		<td align="Right">-1,000.00</td>
+		<td align="Right">1,000.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">1,504.63</td>
+	</tr>
+	<tr>
+		<td align="left">21/03/2021</td>
+		<td align="left">45820</td>
+		<td align="left">COMPRA POR POS - DOLLARCITY SAN CRISTOBAL GUATEMALA    GT</td>
+		<td align="Right">-40.00</td>
+		<td align="Right">40.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">1,464.63</td>
+	</tr>
+	<tr>
+		<td align="left">26/03/2021</td>
+		<td align="left">1105382</td>
+		<td align="left">N.C PAGO PLANILLA</td>
+		<td align="Right">1,500.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">1,500.00</td>
+		<td align="Right">2,964.63</td>
+	</tr>
+	<tr>
+		<td align="left">28/03/2021</td>
+		<td align="left">116932</td>
+		<td align="left">COMPRA POR POS - MAXI DESPENSA ROOSEVELT  GUATEMALA    GT</td>
+		<td align="Right">-38.75</td>
+		<td align="Right">38.75</td>
+		<td align="Right">0.00</td>
+		<td align="Right">2,925.88</td>
+	</tr>
+	<tr>
+		<td align="left">28/03/2021</td>
+		<td align="left">119285</td>
+		<td align="left">RETIRO EN ATM</td>
+		<td align="Right">-200.00</td>
+		<td align="Right">200.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">2,725.88</td>
+	</tr>
+	<tr>
+		<td align="left">28/03/2021</td>
+		<td align="left">444785</td>
+		<td align="left">N.D. PAGO TELGUA BANCA LINEA</td>
+		<td align="Right">-224.00</td>
+		<td align="Right">224.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">2,501.88</td>
+	</tr>
+	<tr>
+		<td align="left">28/03/2021</td>
+		<td align="left">4734900</td>
+		<td align="left">TRANSFERENCIA MARZO</td>
+		<td align="Right">-750.00</td>
+		<td align="Right">750.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">1,751.88</td>
+	</tr>
+	<tr>
+		<td align="left">30/03/2021</td>
+		<td align="left">1108296</td>
+		<td align="left">N.C PAGO PLANILLA</td>
+		<td align="Right">2,149.80</td>
+		<td align="Right">0.00</td>
+		<td align="Right">2,149.80</td>
+		<td align="Right">3,901.68</td>
+	</tr>
+	<tr>
+		<td align="left">30/03/2021</td>
+		<td align="left">1108311</td>
+		<td align="left">N.C PAGO PLANILLA</td>
+		<td align="Right">146.46</td>
+		<td align="Right">0.00</td>
+		<td align="Right">146.46</td>
+		<td align="Right">4,048.14</td>
+	</tr>
+	<tr>
+		<td align="left">30/03/2021</td>
+		<td align="left">3169255</td>
+		<td align="left">N.D PAGO EEGSA</td>
+		<td align="Right">-112.63</td>
+		<td align="Right">112.63</td>
+		<td align="Right">0.00</td>
+		<td align="Right">3,935.51</td>
+	</tr>
+	<tr>
+		<td align="left">30/03/2021</td>
+		<td align="left">14832884</td>
+		<td align="left">OPERACIONES ACH</td>
+		<td align="Right">-1,350.00</td>
+		<td align="Right">1,350.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">2,585.51</td>
+	</tr>
+	<tr>
+		<td align="left">30/03/2021</td>
+		<td align="left">14832943</td>
+		<td align="left">OPERACIONES ACH</td>
+		<td align="Right">-500.00</td>
+		<td align="Right">500.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">2,085.51</td>
+	</tr>
+	<tr>
+		<td align="left">31/03/2021</td>
+		<td align="left">167497</td>
+		<td align="left">RETIRO EN ATM</td>
+		<td align="Right">-700.00</td>
+		<td align="Right">700.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">1,385.51</td>
+	</tr>
+</table>
+</center><br/><center><TABLE><TR><TD colspan="2">Total de D&eacute;bitos</TD><TD>8,720.38</TD><TD></TD></TR><TR><TD colspan="2">Total de Cr&eacute;ditos</TD><TD>8,804.76</TD><TD></TD></TR></TABLE></center>

@@ -1,0 +1,93 @@
+<center><br/><br/><table><tr><td colspan="5"><h3>ESTADO DE CUENTA </h1></td></tr></table><table><tr><td colspan="2">Banco Promerica, S.A.</td></tr></table><table><tr><td colspan="2" align="Right">Fecha del Reporte:</td><td colspan="4" align="left">martes, 03 de noviembre de 2020 09:22 a.m.</td><td/><td/></tr><tr><td colspan="2" align="Right">Corte:</td><td align="left">7 - 2020</td><td/><td/></tr><tr><td colspan="2" align="Right">N&uacute;mero de Cuenta:</td><td colspan="2" align="left">12661010170069</td><td colspan="3" align="Right">Disponible:</td><td>1.60</td></tr><tr><td colspan="2" align="Right">Nombre del Cliente:</td><td colspan="2" align="left">BRYAN JOSUE SOLARES PEREZ</td><td colspan="3" align="Right">Moneda:</td><td>QUETZALES</td></tr><tr><td colspan="2" align="Right">Descripci&oacute;n del Producto:</td><td colspan="3" align="left">MONETARIO PLANILLAS Q</td><td colspan="2" align="Right">Balance Inicial:</td><td>1,828.73</td></tr><tr><td colspan="2" align="Right">Tipo de Cuenta:</td><td colspan="2" align="left">CATEGORIA Q</td></tr></table><table><tr><td colspan="2">Balance Inicial</td><td colspan="2">Saldo Promedio</td><td>Intereses</td><td>Cr&eacute;ditos</td><td>D&eacute;bitos</td><td colspan="2">Balance Actual</td><td>Disponible</td></tr><tr><td colspan="2">1,828.73</td><td colspan="2">202.58</td><td>0.00</td><td>2,270.34</td><td>4,097.47</td><td colspan="2">1.60</td><td>1.60</td></tr></table><table><tr><td>Transacciones</td></tr></table><table border="1">
+	<tr>
+		<td>Fecha</td>
+		<td>Documento</td>
+		<td>Descripci&#243;n</td>
+		<td>Monto</td>
+		<td>D&#233;bitos</td>
+		<td>Cr&#233;ditos</td>
+		<td>Saldo</td>
+	</tr>
+	<tr>
+		<td align="left">01/07/2020</td>
+		<td align="left">873931</td>
+		<td align="left">COMPRA POR POS - MI PAGO CLARO (VISANET)  GUATEMALA    GT</td>
+		<td align="Right">-244.00</td>
+		<td align="Right">244.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">1,584.73</td>
+	</tr>
+	<tr>
+		<td align="left">01/07/2020</td>
+		<td align="left">879191</td>
+		<td align="left">RETIRO EN ATM</td>
+		<td align="Right">-1,500.00</td>
+		<td align="Right">1,500.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">84.73</td>
+	</tr>
+	<tr>
+		<td align="left">07/07/2020</td>
+		<td align="left">929827</td>
+		<td align="left">COMPRA POR POS - DOMINOS DISTRITO MIRAFLORGUATEMALA    GT</td>
+		<td align="Right">-80.00</td>
+		<td align="Right">80.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">4.73</td>
+	</tr>
+	<tr>
+		<td align="left">15/07/2020</td>
+		<td align="left">867850</td>
+		<td align="left">N.C PAGO PLANILLA</td>
+		<td align="Right">1,970.34</td>
+		<td align="Right">0.00</td>
+		<td align="Right">1,970.34</td>
+		<td align="Right">1,975.07</td>
+	</tr>
+	<tr>
+		<td align="left">17/07/2020</td>
+		<td align="left">870175</td>
+		<td align="left">N.C PAGO PLANILLA</td>
+		<td align="Right">300.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">300.00</td>
+		<td align="Right">2,275.07</td>
+	</tr>
+	<tr>
+		<td align="left">17/07/2020</td>
+		<td align="left">17051</td>
+		<td align="left">RETIRO EN ATM</td>
+		<td align="Right">-2,000.00</td>
+		<td align="Right">2,000.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">275.07</td>
+	</tr>
+	<tr>
+		<td align="left">17/07/2020</td>
+		<td align="left">17220</td>
+		<td align="left">COMPRA POR POS - MAXI DESPENSA ROOSEVELT  GUATEMALA    GT</td>
+		<td align="Right">-138.00</td>
+		<td align="Right">138.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">137.07</td>
+	</tr>
+	<tr>
+		<td align="left">27/07/2020</td>
+		<td align="left">97135</td>
+		<td align="left">COMPRA POR POS - NOVEX ROOSEVELT          GUATEMALA    GT</td>
+		<td align="Right">-33.50</td>
+		<td align="Right">33.50</td>
+		<td align="Right">0.00</td>
+		<td align="Right">103.57</td>
+	</tr>
+	<tr>
+		<td align="left">29/07/2020</td>
+		<td align="left">115552</td>
+		<td align="left">COMPRA POR POS - UDEMY  ONLINE COURSES    SAN FRANCISCOUS</td>
+		<td align="Right">-101.97</td>
+		<td align="Right">101.97</td>
+		<td align="Right">0.00</td>
+		<td align="Right">1.60</td>
+	</tr>
+</table>
+</center><br/><center><TABLE><TR><TD colspan="2">Total de D&eacute;bitos</TD><TD>4,097.47</TD><TD></TD></TR><TR><TD colspan="2">Total de Cr&eacute;ditos</TD><TD>2,270.34</TD><TD></TD></TR></TABLE></center>

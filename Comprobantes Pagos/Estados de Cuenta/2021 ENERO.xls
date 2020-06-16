@@ -1,0 +1,165 @@
+<center><br/><br/><table><tr><td colspan="5"><h3>ESTADO DE CUENTA </h1></td></tr></table><table><tr><td colspan="2">Banco Promerica, S.A.</td></tr></table><table><tr><td colspan="2" align="Right">Fecha del Reporte:</td><td colspan="4" align="left">viernes, 09 de abril de 2021 08:18 p.m.</td><td/><td/></tr><tr><td colspan="2" align="Right">Corte:</td><td align="left">1 - 2021</td><td/><td/></tr><tr><td colspan="2" align="Right">N&uacute;mero de Cuenta:</td><td colspan="2" align="left">12661010170069</td><td colspan="3" align="Right">Disponible:</td><td>2,867.76</td></tr><tr><td colspan="2" align="Right">Nombre del Cliente:</td><td colspan="2" align="left">BRYAN JOSUE SOLARES PEREZ</td><td colspan="3" align="Right">Moneda:</td><td>QUETZALES</td></tr><tr><td colspan="2" align="Right">Descripci&oacute;n del Producto:</td><td colspan="3" align="left">MONETARIO PLANILLAS Q</td><td colspan="2" align="Right">Balance Inicial:</td><td>570.85</td></tr><tr><td colspan="2" align="Right">Tipo de Cuenta:</td><td colspan="2" align="left">CATEGORIA Q</td></tr></table><table><tr><td colspan="2">Balance Inicial</td><td colspan="2">Saldo Promedio</td><td>Intereses</td><td>Cr&eacute;ditos</td><td>D&eacute;bitos</td><td colspan="2">Balance Actual</td><td>Disponible</td></tr><tr><td colspan="2">570.85</td><td colspan="2">1,430.07</td><td>0.00</td><td>6,083.83</td><td>3,786.92</td><td colspan="2">2,867.76</td><td>2,867.76</td></tr></table><table><tr><td>Transacciones</td></tr></table><table border="1">
+	<tr>
+		<td>Fecha</td>
+		<td>Documento</td>
+		<td>Descripci&#243;n</td>
+		<td>Monto</td>
+		<td>D&#233;bitos</td>
+		<td>Cr&#233;ditos</td>
+		<td>Saldo</td>
+	</tr>
+	<tr>
+		<td align="left">06/01/2021</td>
+		<td align="left">215670</td>
+		<td align="left">COMPRA POR POS - DESPENSA FAMILIAR LO DE CGUATEMALA    GT</td>
+		<td align="Right">-95.50</td>
+		<td align="Right">95.50</td>
+		<td align="Right">0.00</td>
+		<td align="Right">475.35</td>
+	</tr>
+	<tr>
+		<td align="left">08/01/2021</td>
+		<td align="left">234759</td>
+		<td align="left">RETIRO EN ATM</td>
+		<td align="Right">-100.00</td>
+		<td align="Right">100.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">375.35</td>
+	</tr>
+	<tr>
+		<td align="left">15/01/2021</td>
+		<td align="left">1029966</td>
+		<td align="left">N.C PAGO PLANILLA</td>
+		<td align="Right">3,039.58</td>
+		<td align="Right">0.00</td>
+		<td align="Right">3,039.58</td>
+		<td align="Right">3,414.93</td>
+	</tr>
+	<tr>
+		<td align="left">16/01/2021</td>
+		<td align="left">324618</td>
+		<td align="left">COMPRA POR POS - DOLLARCITY SAN CRISTOBAL GUATEMALA    GT</td>
+		<td align="Right">-66.00</td>
+		<td align="Right">66.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">3,348.93</td>
+	</tr>
+	<tr>
+		<td align="left">16/01/2021</td>
+		<td align="left">325472</td>
+		<td align="left">COMPRA POR POS - MI SUPER FRESH SAN CRISTOGUATEMALA    GT</td>
+		<td align="Right">-461.15</td>
+		<td align="Right">461.15</td>
+		<td align="Right">0.00</td>
+		<td align="Right">2,887.78</td>
+	</tr>
+	<tr>
+		<td align="left">17/01/2021</td>
+		<td align="left">4234951</td>
+		<td align="left">TRANSFERENCIA PAGO QUINCENA 1 ENERO </td>
+		<td align="Right">-200.00</td>
+		<td align="Right">200.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">2,687.78</td>
+	</tr>
+	<tr>
+		<td align="left">18/01/2021</td>
+		<td align="left">345568</td>
+		<td align="left">COMPRA POR POS - FARMACIA GALENO 253      GUATEMALA    GT</td>
+		<td align="Right">-163.70</td>
+		<td align="Right">163.70</td>
+		<td align="Right">0.00</td>
+		<td align="Right">2,524.08</td>
+	</tr>
+	<tr>
+		<td align="left">21/01/2021</td>
+		<td align="left">3551304</td>
+		<td align="left">OPERACIONES ACH</td>
+		<td align="Right">-540.00</td>
+		<td align="Right">540.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">1,984.08</td>
+	</tr>
+	<tr>
+		<td align="left">21/01/2021</td>
+		<td align="left">3551409</td>
+		<td align="left">OPERACIONES ACH</td>
+		<td align="Right">540.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">540.00</td>
+		<td align="Right">2,524.08</td>
+	</tr>
+	<tr>
+		<td align="left">22/01/2021</td>
+		<td align="left">383779</td>
+		<td align="left">RETIRO EN ATM</td>
+		<td align="Right">-600.00</td>
+		<td align="Right">600.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">1,924.08</td>
+	</tr>
+	<tr>
+		<td align="left">23/01/2021</td>
+		<td align="left">393239</td>
+		<td align="left">COMPRA POR POS - UBR* PENDING.UBER.COM    AMSTERDAM    NL</td>
+		<td align="Right">-27.54</td>
+		<td align="Right">27.54</td>
+		<td align="Right">0.00</td>
+		<td align="Right">1,896.54</td>
+	</tr>
+	<tr>
+		<td align="left">23/01/2021</td>
+		<td align="left">394357</td>
+		<td align="left">RETIRO EN ATM</td>
+		<td align="Right">-100.00</td>
+		<td align="Right">100.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">1,796.54</td>
+	</tr>
+	<tr>
+		<td align="left">27/01/2021</td>
+		<td align="left">4335356</td>
+		<td align="left">OPERACIONES ACH</td>
+		<td align="Right">-528.00</td>
+		<td align="Right">528.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">1,268.54</td>
+	</tr>
+	<tr>
+		<td align="left">29/01/2021</td>
+		<td align="left">456207</td>
+		<td align="left">COMPRA POR POS - TEXACO MILENIO           GUATEMALA    GT</td>
+		<td align="Right">-55.03</td>
+		<td align="Right">55.03</td>
+		<td align="Right">0.00</td>
+		<td align="Right">1,213.51</td>
+	</tr>
+	<tr>
+		<td align="left">29/01/2021</td>
+		<td align="left">456370</td>
+		<td align="left">RETIRO EN ATM</td>
+		<td align="Right">-100.00</td>
+		<td align="Right">100.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">1,113.51</td>
+	</tr>
+	<tr>
+		<td align="left">29/01/2021</td>
+		<td align="left">1043953</td>
+		<td align="left">N.C PAGO PLANILLA</td>
+		<td align="Right">2,504.25</td>
+		<td align="Right">0.00</td>
+		<td align="Right">2,504.25</td>
+		<td align="Right">3,617.76</td>
+	</tr>
+	<tr>
+		<td align="left">29/01/2021</td>
+		<td align="left">5718823</td>
+		<td align="left">PAGO MOTO MES ENERO </td>
+		<td align="Right">-750.00</td>
+		<td align="Right">750.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">2,867.76</td>
+	</tr>
+</table>
+</center><br/><center><TABLE><TR><TD colspan="2">Total de D&eacute;bitos</TD><TD>3,786.92</TD><TD></TD></TR><TR><TD colspan="2">Total de Cr&eacute;ditos</TD><TD>6,083.83</TD><TD></TD></TR></TABLE></center>

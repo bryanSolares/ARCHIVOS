@@ -1,0 +1,156 @@
+<center><br/><br/><table><tr><td colspan="5"><h3>ESTADO DE CUENTA </h1></td></tr></table><table><tr><td colspan="2">Banco Promerica, S.A.</td></tr></table><table><tr><td colspan="2" align="Right">Fecha del Reporte:</td><td colspan="4" align="left">martes, 03 de noviembre de 2020 09:23 a.m.</td><td/><td/></tr><tr><td colspan="2" align="Right">Corte:</td><td align="left">9 - 2020</td><td/><td/></tr><tr><td colspan="2" align="Right">N&uacute;mero de Cuenta:</td><td colspan="2" align="left">12661010170069</td><td colspan="3" align="Right">Disponible:</td><td>5,015.58</td></tr><tr><td colspan="2" align="Right">Nombre del Cliente:</td><td colspan="2" align="left">BRYAN JOSUE SOLARES PEREZ</td><td colspan="3" align="Right">Moneda:</td><td>QUETZALES</td></tr><tr><td colspan="2" align="Right">Descripci&oacute;n del Producto:</td><td colspan="3" align="left">MONETARIO PLANILLAS Q</td><td colspan="2" align="Right">Balance Inicial:</td><td>1,307.99</td></tr><tr><td colspan="2" align="Right">Tipo de Cuenta:</td><td colspan="2" align="left">CATEGORIA Q</td></tr></table><table><tr><td colspan="2">Balance Inicial</td><td colspan="2">Saldo Promedio</td><td>Intereses</td><td>Cr&eacute;ditos</td><td>D&eacute;bitos</td><td colspan="2">Balance Actual</td><td>Disponible</td></tr><tr><td colspan="2">1,307.99</td><td colspan="2">2,069.43</td><td>0.00</td><td>8,062.75</td><td>4,355.16</td><td colspan="2">5,015.58</td><td>5,015.58</td></tr></table><table><tr><td>Transacciones</td></tr></table><table border="1">
+	<tr>
+		<td>Fecha</td>
+		<td>Documento</td>
+		<td>Descripci&#243;n</td>
+		<td>Monto</td>
+		<td>D&#233;bitos</td>
+		<td>Cr&#233;ditos</td>
+		<td>Saldo</td>
+	</tr>
+	<tr>
+		<td align="left">01/09/2020</td>
+		<td align="left">88522141</td>
+		<td align="left">OPERACIONES ACH</td>
+		<td align="Right">-1,300.00</td>
+		<td align="Right">1,300.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">7.99</td>
+	</tr>
+	<tr>
+		<td align="left">02/09/2020</td>
+		<td align="left">907759</td>
+		<td align="left">N.C PAGO PLANILLA</td>
+		<td align="Right">2,354.25</td>
+		<td align="Right">0.00</td>
+		<td align="Right">2,354.25</td>
+		<td align="Right">2,362.24</td>
+	</tr>
+	<tr>
+		<td align="left">02/09/2020</td>
+		<td align="left">525965</td>
+		<td align="left">COMPRA POR POS - MI PAGO CLARO (VISANET)  GUATEMALA    GT</td>
+		<td align="Right">-48.09</td>
+		<td align="Right">48.09</td>
+		<td align="Right">0.00</td>
+		<td align="Right">2,314.15</td>
+	</tr>
+	<tr>
+		<td align="left">03/09/2020</td>
+		<td align="left">88600711</td>
+		<td align="left">OPERACIONES ACH</td>
+		<td align="Right">-1,000.00</td>
+		<td align="Right">1,000.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">1,314.15</td>
+	</tr>
+	<tr>
+		<td align="left">03/09/2020</td>
+		<td align="left">88601321</td>
+		<td align="left">OPERACIONES ACH</td>
+		<td align="Right">-1,130.00</td>
+		<td align="Right">1,130.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">184.15</td>
+	</tr>
+	<tr>
+		<td align="left">03/09/2020</td>
+		<td align="left">88613450</td>
+		<td align="left">OPERACIONES ACH</td>
+		<td align="Right">1,000.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">1,000.00</td>
+		<td align="Right">1,184.15</td>
+	</tr>
+	<tr>
+		<td align="left">08/09/2020</td>
+		<td align="left">91326969</td>
+		<td align="left">N.D PAGO EEGSA</td>
+		<td align="Right">-79.91</td>
+		<td align="Right">79.91</td>
+		<td align="Right">0.00</td>
+		<td align="Right">1,104.24</td>
+	</tr>
+	<tr>
+		<td align="left">10/09/2020</td>
+		<td align="left">629533</td>
+		<td align="left">COMPRA POR POS - EST. DE SERV. (LAS CHARCAGUATEMALA    GT</td>
+		<td align="Right">-67.00</td>
+		<td align="Right">67.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">1,037.24</td>
+	</tr>
+	<tr>
+		<td align="left">12/09/2020</td>
+		<td align="left">659854</td>
+		<td align="left">COMPRA POR POS - RADIO SHACK ROOSEVELT    GUATEMALA    GT</td>
+		<td align="Right">-112.00</td>
+		<td align="Right">112.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">925.24</td>
+	</tr>
+	<tr>
+		<td align="left">13/09/2020</td>
+		<td align="left">664882</td>
+		<td align="left">COMPRA POR POS - PLAYSTATION NETWORK      877-971-7669 US</td>
+		<td align="Right">-37.94</td>
+		<td align="Right">37.94</td>
+		<td align="Right">0.00</td>
+		<td align="Right">887.30</td>
+	</tr>
+	<tr>
+		<td align="left">16/09/2020</td>
+		<td align="left">916366</td>
+		<td align="left">N.C PAGO PLANILLA</td>
+		<td align="Right">2,354.25</td>
+		<td align="Right">0.00</td>
+		<td align="Right">2,354.25</td>
+		<td align="Right">3,241.55</td>
+	</tr>
+	<tr>
+		<td align="left">20/09/2020</td>
+		<td align="left">796461</td>
+		<td align="left">COMPRA POR POS - DOLLARCITY SAN CRISTOBAL GUATEMALA    GT</td>
+		<td align="Right">-122.00</td>
+		<td align="Right">122.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">3,119.55</td>
+	</tr>
+	<tr>
+		<td align="left">23/09/2020</td>
+		<td align="left">826319</td>
+		<td align="left">COMPRA POR POS - DESPENSA FAMILIAR (LO DE GUATEMALA    GT</td>
+		<td align="Right">-79.00</td>
+		<td align="Right">79.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">3,040.55</td>
+	</tr>
+	<tr>
+		<td align="left">23/09/2020</td>
+		<td align="left">826333</td>
+		<td align="left">RETIRO EN ATM</td>
+		<td align="Right">-300.00</td>
+		<td align="Right">300.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">2,740.55</td>
+	</tr>
+	<tr>
+		<td align="left">23/09/2020</td>
+		<td align="left">835136</td>
+		<td align="left">COMPRA POR POS - UDEMY  ONLINE COURSES    SAN FRANCISCOUS</td>
+		<td align="Right">-79.22</td>
+		<td align="Right">79.22</td>
+		<td align="Right">0.00</td>
+		<td align="Right">2,661.33</td>
+	</tr>
+	<tr>
+		<td align="left">30/09/2020</td>
+		<td align="left">927187</td>
+		<td align="left">N.C PAGO PLANILLA</td>
+		<td align="Right">2,354.25</td>
+		<td align="Right">0.00</td>
+		<td align="Right">2,354.25</td>
+		<td align="Right">5,015.58</td>
+	</tr>
+</table>
+</center><br/><center><TABLE><TR><TD colspan="2">Total de D&eacute;bitos</TD><TD>4,355.16</TD><TD></TD></TR><TR><TD colspan="2">Total de Cr&eacute;ditos</TD><TD>8,062.75</TD><TD></TD></TR></TABLE></center>

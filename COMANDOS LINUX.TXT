@@ -57,3 +57,8 @@ host myip.opendns.com resolver1.opendns.com
 curl ipecho.net/plain
 
 
+sudo apt-get install default-jdk
+sudo apt-get install default-jre
+sudo apt install openjdk-11-jdk
+sudo apt install openjdk-9-jdk
+sudo apt install openjdk-8-jdk

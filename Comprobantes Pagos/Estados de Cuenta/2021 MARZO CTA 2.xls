@@ -1,0 +1,30 @@
+<center><br/><br/><table><tr><td colspan="5"><h3>ESTADO DE CUENTA </h1></td></tr></table><table><tr><td colspan="2">Banco Promerica, S.A.</td></tr></table><table><tr><td colspan="2" align="Right">Fecha del Reporte:</td><td colspan="4" align="left">viernes, 09 de abril de 2021 08:19 p.m.</td><td/><td/></tr><tr><td colspan="2" align="Right">Corte:</td><td align="left">3 - 2021</td><td/><td/></tr><tr><td colspan="2" align="Right">N&uacute;mero de Cuenta:</td><td colspan="2" align="left">32992060293588</td><td colspan="3" align="Right">Disponible:</td><td>4,905.00</td></tr><tr><td colspan="2" align="Right">Nombre del Cliente:</td><td colspan="2" align="left">BRYAN JOSUE SOLARES PEREZ</td><td colspan="3" align="Right">Moneda:</td><td>QUETZALES</td></tr><tr><td colspan="2" align="Right">Descripci&oacute;n del Producto:</td><td colspan="3" align="left">AHORRO TASA ALTA Q</td><td colspan="2" align="Right">Balance Inicial:</td><td>4,000.00</td></tr><tr><td colspan="2" align="Right">Tipo de Cuenta:</td><td colspan="2" align="left">CATEGORIA Q</td></tr></table><table><tr><td colspan="2">Balance Inicial</td><td colspan="2">Saldo Promedio</td><td>Intereses</td><td>Cr&eacute;ditos</td><td>D&eacute;bitos</td><td colspan="2">Balance Actual</td><td>Disponible</td></tr><tr><td colspan="2">4,000.00</td><td colspan="2">4,188.68</td><td>0.00</td><td>905.00</td><td>0.00</td><td colspan="2">4,905.00</td><td>4,905.00</td></tr></table><table><tr><td>Transacciones</td></tr></table><table border="1">
+	<tr>
+		<td>Fecha</td>
+		<td>Documento</td>
+		<td>Descripci&#243;n</td>
+		<td>Monto</td>
+		<td>D&#233;bitos</td>
+		<td>Cr&#233;ditos</td>
+		<td>Saldo</td>
+	</tr>
+	<tr>
+		<td align="left">09/03/2021</td>
+		<td align="left">1227503</td>
+		<td align="left">TRANSFERENCIA </td>
+		<td align="Right">155.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">155.00</td>
+		<td align="Right">4,155.00</td>
+	</tr>
+	<tr>
+		<td align="left">28/03/2021</td>
+		<td align="left">4734900</td>
+		<td align="left">TRANSFERENCIA MARZO</td>
+		<td align="Right">750.00</td>
+		<td align="Right">0.00</td>
+		<td align="Right">750.00</td>
+		<td align="Right">4,905.00</td>
+	</tr>
+</table>
+</center><br/><center><TABLE><TR><TD colspan="2">Total de D&eacute;bitos</TD><TD>0.00</TD><TD></TD></TR><TR><TD colspan="2">Total de Cr&eacute;ditos</TD><TD>905.00</TD><TD></TD></TR></TABLE></center>
